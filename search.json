@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Home",
+    "url": "index.html",
+    "content": "power bi, power query, word, excel, access, data analysis, power point, pivot table, دوال الاكسيل, اختصارات الاكسيل, ووردبور بوينت, اكسس, اكسيل, بور بي اي, بور كويري, تحليل البيانات"
+  },
+  {
+    "title": "اكسيل",
+    "url": "excel.html",
+    "content": "اساسيات الاكسيل, Check Box, اهم دوال الاكسيل, الدوال الاحترافية, التنسيق الشرطي, Copy & Paste, تتبع الحضور والانصراف, اهم اختصارات الاكسيل, اكسيل, excel"
+  },
+  {
+    "title": "power bi",
+    "url": "power bi.html",
+    "content": "power bi, بور بي اي, تحميل وتثبيت Power BI, شرح واجهة Power BI, استرداد البيانات من الاكسيل, معالجة البيانات في Power Query, كيفية انشاء التصورات البصرية, Visualization"
+  },
+  {
+    "title": "power query",
+    "url": "power query.html",
+    "content": "power query, بور كويري, اول خطوة نحو اتمتة البيانات, استرداد البيانات في دقائق الى Power Query, استرداد البيانات من Share Point Folder, معالجة البيانات على Power Query, تعلم Power Query في دقائق واتقن تنظيم وتقسيم البيانات"
+  },
+  {
+    "title": "word",
+    "url": "word.html",
+    "content": "word, وورد, اهم مهارة في الـ Word (تحويل الارقام الى حروف), كيفية استخراج النصوص من الصور عن طريق الـ word, الترقيم التلقائي في برنامج الـ Word, اهم اسرار الـ Word"
+  },
+  {
+    "title": "access",
+    "url": "access.html",
+    "content": "كورس اكسس للاحتراف, مقدمة عن الاكسس, انشاء الجداول, Relationships, اهم مهارات الاكسس, انشاء قاعدة بيانات, Check Box في الاكسس, قاعدة بيانات, access, اكسس"
+  },
+  {
+    "title": "تحليل البيانات",
+    "url": "analysis.html",
+    "content": "تحليل البيانات, data analysis, تحليل البيانات, ما هو تحليل البيانات, تنظيف البيانات, كيفية تحويل الجدول العادي الى Excel Table, التحقق من صحة البيانات (Data Validation), اهم دوال التلخيص في الاكسيل (SUM, AVERAGE, COUNT), الدوال الشرطية في الاكسيل (SUMIF, COUNTIF, IF), الدوال الشرطية باكثر من شرط (SUMIFS, COUNTIFS, IFS), شرح الدالة المهمة جدا XLOOKUP, معالجة النصوص في الاكسيل باستخدام الدالة (MID - FIND - LEFT - RIGHT), كيفية استخدام الـ Povite Table, اضافة SLICER لتصفية البيانات في Povite Table"
+  },
+  {
+    "title": "17 اختصار",
+    "url": "17 اختصار.html",
+    "content": "اهم 17 اختصار في الاكسيل"
+  },
+  {
+    "title": "pivot table",
+    "url": "pivot table.html",
+    "content": "تحليل البيانات باستخدام PIVOT TABLE, كيفية انشاء PIVOT TABLE, تحليل البيانات باحتراف و التعرف على واجهة PIVOT TABLE, كيفية استخدام Pivot Table فى تحليل البيانات, كيفية تغيير مصدر بيانات PIVOT TABLE, SLICER, اضافة اعمدة داخل PIVOT TABLE, شرح كامل لـ PIVOT TABLE"
+  },
+  {
+    "title": "power point",
+    "url": "power point.html",
+    "content": "مهارات وخدع Power Point, اضافة تايمر في Power Point, الانتقال بين الشرائح, ازالة خلفية صورة, تحويل ملف Power Point الى PDF"
+  },
+  {
+    "title": "word-2",
+    "url": "word-2.html",
+    "content": "طريقة كتابة الزخارف الاسلامية, الكتابة بالصوت في برنامج الـ Word, تحويل الارقام الى كلام في الـ Word, تحويل ملف الوورد الى PDF والعكس, وضع علامة مائية في الصفحات, عمل اطار في صفحة الوورد, كيفية اضافة الالف الممدوده على الياء, كيفية نقل صف من مكان لاخر ( لاعلى او لاسفل ), طباعه صفحتين أو أكثر في ورقه واحده أثناء الطباعه, كيفية اضافة وحذف صفحات داخل برنامج Word, تحويل النص المكتوب الى صوت مسموع فى Word, أرسل ملفاتك بالبريد الإلكتروني E-mail بصيغة PDF بنقرة واحدة, كيفية استخدام خاصية الترقيم التلقائي, أسهل طريقة لكتابة التاريخ والوقت الحالي"
+  },
+  {
+    "title": "دوال الاكسيل",
+    "url": "دوال الاكسيل.html",
+    "content": "الدالة SUM, الدالة COUNT & COUNTA, الدالة AVERAGE, الدالة MAX & MIN, الدالة MID, الدالة LEFT & RIGHT, اقوى تجميعة لدوال الاكسيل, الدالة LEN, الدالة NOW & TODAY, الدالة VLOOKUP, اهم المعادلات في الاكسيل, الدالة SUBSTITUTE, الدالة UPPER & LOWER, الدالة UPPER, الدالة IFS, الدالة RANDBETWEEN, شرح الدالة HSTACK & VSTACK لدمج الجداول, الدالة SUMIF, الدالة SUMIFS, كيفية فصل التاريخ عن الوقت باستخدام Flash Fill & Text to Columns"
+  }
+]
