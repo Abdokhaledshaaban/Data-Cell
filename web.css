@@ -51,8 +51,6 @@ p{
 }
 
 .intro .container .inter{
-    position: relative;
-    left: 100px;
     padding-right: 50px;
 }
 
@@ -155,7 +153,6 @@ p{
         width: 250px;
     }
     .intro .container .inter{
-        left: 0;
         padding-right: 30px;
     }
     .courses_chap .courses_intro{
@@ -180,11 +177,13 @@ p{
     .intro .container .welcoming,
     .intro .container .inter{
         width: 90%;
-        
     }
     .course_sections .container .section,
     .last_courses .container .section_1{
         width: 46%;
+    }
+    .intro .container .welcoming{
+        margin-left: 50px;
     }
 }
 
@@ -203,5 +202,8 @@ p{
     .intro{
         position: relative;
         left: 50px;
+    }
+    .intro .container .welcoming{
+        margin-left: 0;
     }
 }

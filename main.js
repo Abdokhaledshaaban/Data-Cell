@@ -76,12 +76,22 @@ let nav_bar = document.getElementById('nav_bar')
 let links = document.querySelector(".links")
 
 function open_menu() {
-    links.classList.add("active")
+  links.classList.add("active")
 }
 
 function close_menu(){
   links.classList.remove("active")
 }
+
+const close_nav = document.querySelectorAll("a");
+
+close_nav.forEach(close_nav => {
+  close_nav.addEventListener("click" , () => {
+    links.classList.remove("active")
+  })
+});
+
+
 
 
 // searchInput.addEventListener('input', (e) => {
@@ -164,6 +174,11 @@ foo_main.innerHTML = `
 `
 
 
+
+    // منع الإغلاق عند الضغط داخل الناف بار
+    navbar.addEventListener("click", (e) => {
+      e.stopPropagation();
+    });
 
 
 // end nav bar
